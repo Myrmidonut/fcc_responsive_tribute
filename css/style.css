@@ -1,0 +1,89 @@
+#main {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  font-family: "Lato";
+}
+
+#img-div {
+  margin-bottom: 100px;
+  max-width: 75%;
+  margin: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  max-width: 75%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+#link {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  margin: auto;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+p {
+  margin: 30px auto;
+}
+
+a {
+  padding: 10px;
+  transition: all 0.5s;
+  border-radius: 5px;
+}
+
+a:hover {
+  box-shadow: 0px 0px 20px gray;
+  transition: all 0.3s;
+}
+
+a:active {
+  box-shadow: none;
+}
+
+a:focus {
+  outline: none;
+}
+
+a:visited {
+  color: black;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  margin: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  #img-div, #tribute-info {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  ul {
+    padding-left: 10px;
+  }
+}
