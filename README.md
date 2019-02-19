@@ -1,4 +1,4 @@
-# Technical Documentation
+# Tribute Page
 
 ## Introduction
 A tribute page to the swiss artist Alberto Giacometti.
