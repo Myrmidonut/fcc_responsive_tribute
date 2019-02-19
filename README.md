@@ -3,7 +3,7 @@
 ## Introduction
 A tribute page to the swiss artist Alberto Giacometti.
 
-This project is part of freeCodeCamps Data Visualization certificate.
+This project is part of freeCodeCamps Responsive Web Design certificate.
 
 ## Project Requirements
 * The tribute page should have an element with a corresponding id="main", which contains all other elements.
