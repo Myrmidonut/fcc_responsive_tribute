@@ -5,6 +5,8 @@ A tribute page to the swiss artist Alberto Giacometti.
 
 This project is part of freeCodeCamps Responsive Web Design certificate.
 
+***
+
 ## Project Requirements
 * The tribute page should have an element with a corresponding id="main", which contains all other elements.
 * There is an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
@@ -16,8 +18,12 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 * The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 * The img element should be centered within its parent element.
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_responsive_tribute
+
+***
 
 ## Preview Images
 ### Main Screen:
